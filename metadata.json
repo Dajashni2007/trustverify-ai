@@ -1,0 +1,6 @@
+{
+  "name": "TrustVerify AI",
+  "description": "Universal Digital Certificate & Document Verification Platform with AI analysis, OCR, QR validation, tampering detection, and blockchain audit logs.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
